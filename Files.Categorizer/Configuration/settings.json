@@ -1,0 +1,18 @@
+{
+  "ExcludeEquals": true,
+  "Excludes": [ "json", "webp" ],
+  "Includes": [
+    {
+      "Key": "Imagens",
+      "Value": [ "jpeg", "jpg", "png", "gif" ]
+    },
+    {
+      "Key": "Documentos",
+      "Value": [ "pdf", "docx", "pptx", "csv", "xml", "xlsx" ]
+    },
+    {
+      "Key": "Videos",
+      "Value": [ "mp4", "mkv", "wmv", "m4v"]
+    }
+  ]
+}
